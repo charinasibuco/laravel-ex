@@ -166,7 +166,7 @@
 				</div>
 				<div class="row" style="margin-top:15px">
 					<div class="col-sm-6">
-						<div class="g-recaptcha" data-sitekey="6LdnwjAUAAAAAOi2rqKb5yp0Ebg5W9hhO9tGnBAC"></div>
+						captcha
 					</div>
 					<div class="col-sm-6">
 						<input type="submit" class="btn btn-default" value="Send">
